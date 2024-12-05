@@ -16,6 +16,7 @@ const (
 	CookieNameUid  = "UID"
 	CookieNameCid  = "CID"
 	CookieNameSeid = "SEID"
+        CookieNamekid = "KID"
 )
 
 const (
